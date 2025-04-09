@@ -4,7 +4,7 @@ Description: A CloudFormation template for creating an S3 Bucket with an SNS Tri
 Parameters:
   BucketName:
     Type: String
-    Description: The name of the S3 Bucket to create
+    Description: The name of the S3 f Bucket to create
 
 
 Resources:
